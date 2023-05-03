@@ -1,132 +1,97 @@
 {
 	"Header": {
-		"title": "We are a Landing Page",
-		"paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+		"title": " UtoTech",
+		"paragraph": "UtoTech est une entreprise de solutions de digitalisation informatique, spécialisée dans la conception et la mise en place de solutions de transformation digitale pour les entreprises."
 	},
 	"About": {
-		"paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"paragraph": "UtoTech est une entreprise spécialisée en développement informatique fondée en 2010, UtoTech est connue pour sa capacité à livrer des projets complexes à grande échelle nationale basés sur des solutions logicielles tout en offrant un service personnalisé et une excellente expérience client avec des consultants expérimentés, dirigée par des experts motivés et passionnés par les nouvelles technologies.",
 		"Why": [
-			"Lorem ipsum dolor",
-			"Tempor incididunt",
-			"Lorem ipsum dolor",
-			"Incididunt ut labore"
+			"Expérience",
+			"Qualité",
+			"Ssécurité",
+
+			"Accompagnement au changement"
 		],
 		"Why2": [
-			"Aliquip ex ea commodo",
-			"Lorem ipsum dolor",
-			"Exercitation ullamco",
-			"Lorem ipsum dolor"
+			"Garantie",
+			"Maîtrise des coûts",
+			"Respect des délais ",
+			"Actualité"
 		]
 	},
 	"Gallery": [
 		{
-			"title": "Project Title",
+			"title": "Naftal Khadamat",
 			"largeImage": "img/portfolio/01-large.jpg",
 			"smallImage": "img/portfolio/01-small.jpg"
 		},
 		{
-			"title": "Project Title",
+			"title": "9rayaFelJib",
 			"largeImage": "img/portfolio/02-large.jpg",
 			"smallImage": "img/portfolio/02-small.jpg"
 		},
 		{
-			"title": "Project Title",
+			"title": "Dawini",
 			"largeImage": "img/portfolio/03-large.jpg",
 			"smallImage": "img/portfolio/03-small.jpg"
 		},
 		{
-			"title": "Project Title",
+			"title": "HemlaDz",
 			"largeImage": "img/portfolio/04-large.jpg",
 			"smallImage": "img/portfolio/04-small.jpg"
 		},
 		{
-			"title": "Project Title",
+			"title": "ASKYO",
 			"largeImage": "img/portfolio/05-large.jpg",
 			"smallImage": "img/portfolio/05-small.jpg"
 		},
 		{
-			"title": "Project Title",
+			"title": "Darija-GPT",
 			"largeImage": "img/portfolio/06-large.jpg",
 			"smallImage": "img/portfolio/06-small.jpg"
-		},
-		{
-			"title": "Project Title",
-			"largeImage": "img/portfolio/07-large.jpg",
-			"smallImage": "img/portfolio/07-small.jpg"
-		},
-		{
-			"title": "Project Title",
-			"largeImage": "img/portfolio/08-large.jpg",
-			"smallImage": "img/portfolio/08-small.jpg"
-		},
-		{
-			"title": "Project Title",
-			"largeImage": "img/portfolio/09-large.jpg",
-			"smallImage": "img/portfolio/09-small.jpg"
 		}
 	],
 	"Services": [
 		{
-			"icon": "fa fa-wordpress",
-			"name": "Lorem ipsum dolor",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"icon": "fa fa-code",
+			"name": "Développement des logiciels"
 		},
 		{
-			"icon": "fa fa-cart-arrow-down",
-			"name": "Consectetur adipiscing",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"icon": "fa fa-cubes",
+			"name": "Développement des logiciels ERP"
 		},
 		{
-			"icon": "fa fa-cloud-download",
-			"name": "Lorem ipsum dolor",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"icon": "fa fa-database",
+			"name": "Analyse de données & BI"
 		},
 		{
-			"icon": "fa fa-language",
-			"name": "Consectetur adipiscing",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"icon": "fa  fa-random ",
+			"name": "Intégration et paramétrages des systèmes"
 		},
 		{
-			"icon": "fa fa-plane",
-			"name": "Lorem ipsum dolor",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"icon": "fa  fa-wrench ",
+			"name": "Support technique & maintenance"
 		},
 		{
-			"icon": "fa fa-pie-chart",
-			"name": "Consectetur adipiscing",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"icon": "fa fa-question-circle ",
+			"name": "Conseils IT"
 		}
 	],
 	"Testimonials": [
 		{
 			"img": "img/testimonials/01.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "John Doe"
-		},
-		{
-			"img": "img/testimonials/02.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "Johnathan Doe"
-		},
-		{
-			"img": "img/testimonials/03.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "John Doe"
+			"text": "\"Le projet de modernisation de 30 stations-services NAFTAL a été une réussite totale. Nous avons reçu des commentaires très positifs de nos clients sur les nouvelles installations et l'expérience globale qu'ils ont eue. Nous sommes heureux d'avoir travaillé avec une entreprise aussi compétente et professionnelle pour réaliser cette transformation. \"",
+			"name": "Kamel Benfriha - PDG de NAFTAL"
 		},
 		{
 			"img": "img/testimonials/04.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "Johnathan Doe"
+			"text": "\"Je suis vraiment satisfaite de la plateforme d'apprentissage 9rayaFelJib que nous avons mise en place grâce à l'équipe de développement UtoTech. Elle est très conviviale et facile à utiliser, et elle nous a permis d'offrir une expérience d'apprentissage en ligne de qualité à nos élèves.\"",
+			"name": "Mme Bellahsene - Directrice de l’école NEWTON"
 		},
 		{
 			"img": "img/testimonials/05.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "John Doe"
-		},
-		{
-			"img": "img/testimonials/06.jpg",
-			"text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-			"name": "Johnathan Doe"
+			"text": "\"En tant que médecin, je suis ravi de l'impact que l'application Dawini a eu sur mes patients. Ils ont pu consulter un médecin sans quitter leur domicile, ce qui était particulièrement important pendant la pandémie. En outre, grâce à cette application, j'ai pu continuer à fournir des soins médicaux essentiels en toute sécurité.\"",
+			"name": "Dr BESSAH - Pneumologue"
 		}
 	],
 	"Team": [
@@ -172,33 +137,33 @@
 		}
 	],
 	"Contact": {
-		"address": "4321 California St, San Francisco, CA 12345 ",
-		"phone": "+1 123 456 1234",
-		"email": "info@company.com",
+		"address": "Villa n°101, Cité Les Palmiers, Oued Smar, Alger, Algérie",
+		"phone": "+213-675-579-501",
+		"email": "contact@utotech.dz",
 		"facebook": "fb.com",
 		"twitter": "twitter.com",
 		"youtube": "youtube.com"
 	},
 	"Features": [
 		{
-			"icon": "fa fa-comments-o",
-			"title": "Lorem ipsum",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+			"icon": "fa fa-magic",
+			"title": "L’innovation",
+			"text": "Notre devise est la génération de solutions innovantes, créatives et uniques."
 		},
 		{
-			"icon": "fa fa-bullhorn",
-			"title": "Lorem ipsum",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+			"icon": "fa fa-briefcase",
+			"title": "L’éthique",
+			"text": "Nous agissons de manière responsable, honnête, transparente et  équitable."
+		},
+		{
+			"icon": "fa fa-line-chart",
+			"title": "L’adaptabilité et flexibilité",
+			"text": "Des méthodologies agiles afin d'assurer une résistance à tout type de changement potentiel."
 		},
 		{
 			"icon": "fa fa-group",
-			"title": "Lorem ipsum",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-		},
-		{
-			"icon": "fa fa-magic",
-			"title": "Lorem ipsum",
-			"text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+			"title": "L’esprit d’équipe",
+			"text": "La coopération et l'entraide est notre culture."
 		}
 	]
 }
