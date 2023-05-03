@@ -24,11 +24,13 @@ export const Team = (props) => {
 								>
 									<div className="thumbnail">
 										{" "}
-										<img
-											src={d.img}
-											alt="..."
-											className="team-img"
-										/>
+										<div className="team-img-container">
+											<img
+												src={d.img}
+												alt="..."
+												className="team-img"
+											/>
+										</div>
 										<div className="caption">
 											<h4>{d.name}</h4>
 											<p>{d.job}</p>
