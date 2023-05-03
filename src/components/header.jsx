@@ -8,10 +8,12 @@ export const Header = (props) => {
 					<div className="container">
 						<div className="row">
 							<div className="col-md-8 col-md-offset-2 intro-text">
-								<h1>
-									<span className="red">Uto</span>
-									<span className="blue">Tech</span>
-								</h1>
+								<img
+									id="logo-img-utoTech"
+									src="/img/logo.png"
+									alt=".."
+									width={120}
+								/>
 								<p>
 									{props.data
 										? props.data.paragraph
