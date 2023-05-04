@@ -637,3 +637,53 @@ label {
 		margin: 50px 0;
 	}
 }
+
+#website-container {
+	max-width: 100vw;
+
+	overflow: hidden;
+}
+
+#features {
+	max-width: 100vw;
+	overflow: hidden;
+}
+
+#about {
+	max-width: 100vw;
+	overflow: hidden;
+}
+
+#services {
+	max-width: 100vw;
+	overflow: hidden;
+}
+
+#portfolio {
+	max-width: 100vw;
+	overflow: hidden;
+}
+
+#testimonials {
+	max-width: 100vw;
+	overflow: hidden;
+}
+
+#team {
+	max-width: 100vw;
+	overflow: hidden;
+}
+#contact {
+	max-width: 100vw;
+	overflow: hidden;
+}
+
+#footer {
+	max-width: 100vw;
+	overflow: hidden;
+}
+
+#menu {
+	max-width: 100vw;
+	overflow: hidden;
+}
