@@ -1,4 +1,4 @@
-<img src="./public/logo.png" alt="App Logo" width="60" style="max-width:100%; height:auto;">
+<img src="./public/img/logo.png" alt="App Logo" width="60" style="max-width:100%; height:auto;">
 
 # UtoTech - Simulating Utopian Solutions through Technology
 
